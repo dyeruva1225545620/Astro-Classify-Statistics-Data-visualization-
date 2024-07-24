@@ -1,6 +1,3 @@
-Here is the README file for the "AstroClassify" project:
-
----
 
 # AstroClassify: A ML Framework for Celestial Object Classification
 
